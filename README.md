@@ -1,3 +1,8 @@
+#KNOWN WORKING FILES ARE HERE!
+https://github.com/aztecyt2022/ps4-payloads-for-12.52-and-up./releases/tag/BINLOADERS
+
+
+
 # ps4-payloads-for-12.52-and-up.
 these payloads are still being tested and are in early versions of adding the offsets and "porting" of the files
 
