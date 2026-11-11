@@ -1,9 +1,10 @@
-
-THIS IS A TEMP REPO UNTIL THE DEVS UPDATE THERE OWN FILES.
-THIS WILL BE REMOVED ONCE DONE.
-PER FILE BASIS.
+Pulled repo!
 
 
+Updated repo. 
+New versions by devs
+
+No need for these!
 
 
 
